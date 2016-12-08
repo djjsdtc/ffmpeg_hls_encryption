@@ -5,7 +5,9 @@
         <group>
             <file>file:/D:/Documents/NetBeansProjects/ffmpeg_enc/src/ffmpegenc/Encryptor.java</file>
             <file>file:/D:/Documents/NetBeansProjects/ffmpeg_enc/src/ffmpegenc/ICallback.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ffmpeg_enc/README.md</file>
             <file>file:/D:/Documents/NetBeansProjects/ffmpeg_enc/src/ffmpegenc/FfmpegRunnable.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/ffmpeg_enc/test/TestMain.java</file>
         </group>
     </open-files>
 </project-private>

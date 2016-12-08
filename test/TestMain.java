@@ -1,23 +1,10 @@
-
 import ffmpegenc.Encryptor;
 import ffmpegenc.ICallback;
 import java.io.IOException;
 import java.util.Properties;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-/**
- *
- * @author Administrator
- */
 public class TestMain {
-
-    /**
-     * @param args the command line arguments
-     */
+    //这是一个在命令行环境下测试ffmpeg一键加密程序的示例
     public static void main(String[] args) throws IOException, InterruptedException {
         ICallback callback = new ICallback() {
             @Override
